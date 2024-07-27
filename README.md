@@ -1,4 +1,4 @@
-# silver-succotash
+# Price Prediction Using ARIMA
 This repository contains code and analysis for predicting stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. The project aims to leverage the ARIMA model to make accurate stock price forecasts based on historical data.
 <br>
 Overview:
